@@ -1,1 +1,1 @@
-# stock-data-dash
+# The Stock Data Dashboard is a stock data visualization web application built with python and using streamlit as the front-end. The web app uses the Yahoo Finance API, Alpha Vantage API and Stock News API to pull up-to-date stock market information and visualizes it using Plotly and Pandas. There is a stock ticker search function to get information on any NASDAQ stock and a date filter to get information from specific time frames.
